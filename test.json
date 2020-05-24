@@ -1,0 +1,7 @@
+{
+  "method": "POST",
+  "url": "https://postman-echo.com/post",
+  "headers": "Content-Type:application/json",
+  "body": null,
+  "from": "test.json"
+}
